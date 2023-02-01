@@ -3,7 +3,7 @@
 ## 독서 기반 지식 아카이빙 모임
 
 <img src="https://img.shields.io/badge/%EB%8F%84%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-0.1.0--pilot-brightgreen">
-<img src="https://img.shields.io/badge/문서버전-0.2.1-skyblue">
+<img src="https://img.shields.io/badge/문서버전-0.3.1-skyblue">
 
 ---
 
